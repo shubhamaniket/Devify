@@ -43,7 +43,8 @@ exports.getPostById = async (req,res,next)=>{
         }
         return res.status(200).json({
             success : false,
-            data : user
+            data : user,
+            postedBy : req.user
         })
     } catch (error) {
         return res.status(500).json({

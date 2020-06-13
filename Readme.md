@@ -15,7 +15,7 @@
     </ul>
 </p>
 
-![Design One]('https://github.com/shubhamaniket/Devify-/blob/master/design%20one.png')
+<img src='https://github.com/shubhamaniket/Devify/blob/master/design%20one.png'/>
 
-![Design Two]('https://github.com/shubhamaniket/Devify-/blob/master/design%20two.png')
+<img src='https://github.com/shubhamaniket/Devify/blob/master/design%20two.png'/>
 
